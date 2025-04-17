@@ -1,4 +1,3 @@
-
 # Traffic Flow Prediction using MSTIM Model (MindSpore)
 
 This repository implements a **multi-scale temporal information modeling (MSTIM)** based deep learning model for traffic flow prediction, developed using the **MindSpore** framework. The model combines LSTM, CNN, and attention-style temporal aggregation to capture both short-term and long-term patterns in traffic data.
@@ -65,6 +64,9 @@ See [`requirements.txt`](./requirements.txt) for a complete list of required pac
 
 MIT License
 
----
+
 
 Created by your AI team using the MindSpore deep learning framework.
+
+# traffic_prediction_mstim
+
