@@ -23,7 +23,7 @@ traffic_prediction_mstim/
 ## 📊 Dataset
 
 We use the [Metro Interstate Traffic Volume Dataset](https://archive.ics.uci.edu/ml/datasets/Metro+Interstate+Traffic+Volume), which contains hourly traffic volume data from a highway in Minnesota, USA. The dataset includes weather, date-time, and traffic volume features.
-
+you can download dataset :https://archive.ics.uci.edu/dataset/492/metro+interstate+traffic+volume
 - Format: CSV
 - Time range: 2012 to 2018
 - Target: `traffic_volume` (normalized)
